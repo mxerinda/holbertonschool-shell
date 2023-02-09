@@ -1,2 +1,2 @@
-#!/bin/bash
-this is the second
+echo #!/bin/bash
+pwd
