@@ -1,2 +1,2 @@
 #!/bin/bash
-ls basics/*.html | xargs -I {} cp {} ~/holbertonschool-shell 
+cp -u *.html ../
